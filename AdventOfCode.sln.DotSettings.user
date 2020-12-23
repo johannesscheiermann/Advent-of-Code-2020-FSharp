@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20cd2900_002Dcfa9_002D47f7_002D8bc3_002De1b334dbd8c1/@EntryIndexedValue"></s:String>
+	<s:Boolean x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20cd2900_002Dcfa9_002D47f7_002D8bc3_002De1b334dbd8c1/@EntryIndexRemoved">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=36b0e619_002Da50c_002D429f_002D9e1c_002D274da35ab97f/@EntryIndexedValue"></s:String>
+	<s:Boolean x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=36b0e619_002Da50c_002D429f_002D9e1c_002D274da35ab97f/@EntryIndexRemoved">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e0a6323c_002D51e1_002D4209_002Db669_002D923e9933bf52/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Program.fs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::42EDF837-5CD7-41A6-9E3A-E517A481D0B0::.NETCoreApp,Version=v5.0::Program&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::57F9E312-AF33-4053-85BE-02057CA80BC8::.NETCoreApp,Version=v5.0::Program.Extracts the input data correctly&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;57F9E312-AF33-4053-85BE-02057CA80BC8/f:Program.fs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e5244b56_002Dd5e4_002D49b2_002Da2b6_002Ddd7a961e1d0a/@EntryIndexedValue"></s:String>
+	<s:Boolean x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e5244b56_002Dd5e4_002D49b2_002Da2b6_002Ddd7a961e1d0a/@EntryIndexRemoved">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0fba732_002Dc70f_002D4b1f_002Db142_002D6db49d498c07/@EntryIndexedValue"></s:String>
+	<s:Boolean x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0fba732_002Dc70f_002D4b1f_002Db142_002D6db49d498c07/@EntryIndexRemoved">True</s:Boolean></wpf:ResourceDictionary>
